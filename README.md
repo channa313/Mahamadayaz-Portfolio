@@ -48,25 +48,17 @@ A modern, responsive personal portfolio website showcasing full-stack developmen
 ```
 PPF/
 ├── index.html              # Main HTML file
-├── styles1.css             # Enhanced CSS with advanced features
-├── script1.js              # Advanced JavaScript functionality
-├── asset/                  # Project assets
-│   ├── home.png            # Hero section image
-│   ├── about.png           # About section image
-│   ├── Project-1.png       # Project screenshots
-│   ├── Project-2.png
-│   ├── Project-3.png
-│   ├── Project-4.png
-│   └── Ayaz.pdf            # Downloadable CV
-├── images/                 # Additional images
-│   ├── bg.png
-│   ├── developer-illustration.jpg
-│   ├── Untitled design.svg
-│   └── favicon.ico         # Website favicon
-└── static/                 # Static assets
-    └── media/ 
-        ├── bg.svg
-        └── Untitled design.svg
+├── CSS/style.css           # Enhanced CSS with advanced features
+├── JAVASCRIPT/script.js    # Advanced JavaScript functionality
+├── Assets/                 # Project assets
+    ├── home.png            # Hero section image
+    ├── about.png           # About section image
+    ├── Project-1.png       # Project screenshots
+    ├── Project-2.png
+    ├── Project-3.png
+    ├── Project-4.png
+    └── Ayaz.pdf            # Downloadable CV
+
 ```
 
 ## 🎨 Design Features
@@ -145,7 +137,7 @@ PPF/
 ## 📝 Customization
 
 ### Colors
-Edit CSS custom properties in `styles1.css`:
+Edit CSS custom properties in `style.css`:
 ```css
 :root {
     --main-color: #0ef;
@@ -157,12 +149,12 @@ Edit CSS custom properties in `styles1.css`:
 
 ### Content
 - Update personal information in `index.html`
-- Replace images in the `asset/` folder
+- Replace images in the `Assets/` folder
 - Modify project details and descriptions
 - Update contact information and social links
 
 ### Styling
-- Modify CSS in `styles1.css`
+- Modify CSS in `style.css`
 - Add new animations and effects
 - Customize responsive breakpoints
 - Update typography and spacing

